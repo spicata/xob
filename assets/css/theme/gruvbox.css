@@ -1,0 +1,48 @@
+body {
+    background-color: #282828;
+    color: #ebdbb2;
+}
+
+strong {
+    color: #fe8019;
+}
+
+em {
+    color: #fe8019;
+}
+
+a {
+    color: #fe8019;
+}
+
+del {
+    color: #3c3836;
+}
+
+blockquote {
+    background-color: #3c3836;
+}
+
+pre {
+    background-color: #3c3836;
+}
+
+code {
+    background-color: #3c3836;
+}
+
+table {
+    border: 3px solid #3c3836;
+}
+
+th {
+    border: 3px solid #3c3836;
+}
+
+td {
+    border: 3px dotted #3c3836;
+}
+
+hr {
+    color: #3c3836;
+}

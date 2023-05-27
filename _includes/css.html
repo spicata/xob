@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="/assets/css/simple.css">
+
+{% if page.font == "sans" %}
+    <link rel="stylesheet" href="/assets/css/sans.css">
+{% elsif page.font == "serif" %}
+    <link rel="stylesheet" href="/assets/css/serif.css">
+{% endif %}
+
+{% if page.theme == "dracula" %}
+    <link rel="stylesheet" href="/assets/css/theme/dracula.css">
+{% elsif page.theme == "gruvbox" %}
+    <link rel="stylesheet" href="/assets/css/theme/gruvbox.css">
+{% elsif page.theme == "solarized" %}
+    <link rel="stylesheet" href="/assets/css/theme/solarized.css">
+{% elsif page.theme == "ossac" %}
+    <link rel="stylesheet" href="/assets/css/theme/ossac.css">
+{% endif %}

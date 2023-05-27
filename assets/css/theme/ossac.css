@@ -1,0 +1,48 @@
+body {
+    background-color: magenta;
+    color: #0f0;
+}
+
+strong {
+    color: yellow;
+}
+
+em {
+    color: yellow;
+}
+
+a {
+    color: yellow;
+}
+
+del {
+    color: red;
+}
+
+blockquote {
+    background-color: red;
+}
+
+pre {
+    background-color: red;
+}
+
+code {
+    background-color: red;
+}
+
+table {
+    border: 3px solid red;
+}
+
+th {
+    border: 3px solid red;
+}
+
+td {
+    border: 3px dotted red;
+}
+
+hr {
+    color: red;
+}

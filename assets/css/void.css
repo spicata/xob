@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    padding: 4em;
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  h1 {
+   color: #ffffff;
+   background-color: #000000;
+   padding: 0.5em 0em;
+  }
+  
+  h2,h3,h4,h5 {
+   color: #ffffff;
+   border-left: 0.2em solid #ffffff;
+   padding: 0.2em 0.5em;
+  }
+  
+  a { color: #ffffff; }
+  
+  a:visited { color: #ffffff; }
+  
+  .footnote, .reversefootnote {
+      background-color: #000000 !important;
+      color: #ffffff !important;
+      padding: 0 0.5em !important;
+  }
+  
+  .footnotes { padding: 1.5em 0; }
+  

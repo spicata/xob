@@ -1,0 +1,48 @@
+body {
+    background-color: #002b36;
+    color: #fdf6e3;
+}
+
+strong {
+    color: #268bd2;
+}
+
+em {
+    color: #268bd2;
+}
+
+a {
+    color: #268bd2;
+}
+
+del {
+    color: #586e75;
+}
+
+blockquote {
+    background-color: #073642;
+}
+
+pre {
+    background-color: #073642;
+}
+
+code {
+    background-color: #073642;
+}
+
+table {
+    border: 3px solid #073642;
+}
+
+th {
+    border: 3px solid #073642;
+}
+
+td {
+    border: 3px dotted #073642;
+}
+
+hr {
+    color: #073642;
+}

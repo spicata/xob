@@ -1,0 +1,26 @@
+<meta charset="utf-8"> 
+{% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+{% else %}
+    <meta name="description" content="A plethora of notes written by a little guy called spicata mentha, with hopes that his page will on day appear on Google search (please index me Google).">
+{% endif %}
+<meta name="keywords" content="notes, mint fresh notes, 99000000, spicata">
+<meta name="author" content="spicata mentha">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+
+{% include css.html %}
+
+{% if page.latex %}
+    {% include jax.html %}
+{% endif %}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YLJKT37DEP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YLJKT37DEP');
+</script>

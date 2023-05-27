@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href={{ "/assets/css/berry.css" | relative_url }}>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <header>
+      {% if page.title %}
+        <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.title }}</h1>
+      {% else %}
+        <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.name }}</h1>
+      {% endif %}
+    </header>
+    <div>
+      {{ content }}
+    </div>
+    <footer>
+      <p><small>for ed</small></p>
+    </footer>
+  </body>
+</html>
