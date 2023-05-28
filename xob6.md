@@ -45,3 +45,7 @@ latex:
 ## oops
 
 ![noballs](assets/noballs.png)
+
+## intrusive thoughts
+
+![cursed](assets/cursed.png)
