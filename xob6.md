@@ -49,3 +49,7 @@ latex:
 ## intrusive thoughts
 
 ![cursed](assets/cursed.png)
+
+## agonising
+
+![busy](assets/busy.png)
