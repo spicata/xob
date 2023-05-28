@@ -41,3 +41,7 @@ latex:
 ## followup
 
 ![followup](assets/followup.png)
+
+## oops
+
+![noballs](assets/noballs.png)
