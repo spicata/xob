@@ -85,3 +85,7 @@ latex:
 ## tophat guy
 
 ![navy](assets/navy.png)
+
+## a blind confidence
+
+![monkemode](assets/monkemode.png)
