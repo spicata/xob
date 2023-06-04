@@ -73,3 +73,15 @@ latex:
 ## banana sheriff
 
 ![banana](assets/banana.png)
+
+## i can literally make this joke any time
+
+![onemoretime](assets/onemoretime.png)
+
+## hgs
+
+![elephant](assets/elephant.png)
+
+## tophat guy
+
+![navy](assets/navy.png)
