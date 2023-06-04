@@ -69,3 +69,7 @@ latex:
 ## this again
 
 ![communism](assets/communism.png)
+
+## banana sheriff
+
+![banana](assets/banana.png)
