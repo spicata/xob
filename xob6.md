@@ -53,3 +53,19 @@ latex:
 ## agonising
 
 ![busy](assets/busy.png)
+
+## agony again
+
+![abacaba](assets/abacaba.png)
+
+## rainbow capitalism
+
+![rainbowcapitalism](assets/rainbowcapitalism.png)
+
+## shhhh
+
+![silenced](assets/silenced.png)
+
+## this again
+
+![communism](assets/communism.png)
