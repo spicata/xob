@@ -89,3 +89,7 @@ latex:
 ## a blind confidence
 
 ![monkemode](assets/monkemode.png)
+
+## plothole?
+
+![gulag](assets/gulag.png)
