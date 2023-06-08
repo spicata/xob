@@ -93,3 +93,15 @@ latex:
 ## plothole?
 
 ![gulag](assets/gulag.png)
+
+## just colours
+
+![colours](assets/colours.png)
+
+## mongus
+
+![mongus](assets/mongus.png)
+
+## clumsy
+
+![boomagain](assets/boomagain.png)
