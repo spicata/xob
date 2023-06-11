@@ -17,3 +17,7 @@ latex:
 ## kaboom's comic #1
 
 ![kaboom](assets/kaboom.jpg)
+
+## ossac's comic #2 (i think)
+
+![ossac](assets/ossac.png)
