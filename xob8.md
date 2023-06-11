@@ -25,3 +25,7 @@ latex:
 how to make your sentences unreadable.
 
 ![what](assets/what.png)
+
+## buttons
+
+![button](assets/button.png)
