@@ -28,3 +28,4 @@ Meet the cast:
 - [xob: 6](xob6.md)
 - [xob conspiracies](conspiracies.md)
 - [xob 7 (bombed)](xob7.md)
+- [xob 8](xob8.md)
