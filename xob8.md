@@ -10,8 +10,12 @@ theme:
 latex: 
 ---
 
-## 8-|
+## kiss
 
 ![whatthehell](assets/whatthehell.png)
 
 (i hope i dont get shot for making this one)
+
+## hot
+
+![hot](assets/hot.png)
