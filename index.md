@@ -29,3 +29,5 @@ Meet the cast:
 - [xob conspiracies](conspiracies.md)
 - [xob 7 (bombed)](xob7.md)
 - [xob 8](xob8.md)
+- [xobs by others](xobothers.md)
+    - 
