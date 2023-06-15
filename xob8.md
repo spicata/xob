@@ -29,3 +29,11 @@ how to make your sentences unreadable.
 ## buttons
 
 ![button](assets/button.png)
+
+## yiik'd too hard
+
+![yiikedout](assets/yiikedout.png)
+
+## no yiik
+
+![noyiik](assets/noyiik.png)
