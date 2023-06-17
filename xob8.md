@@ -43,3 +43,15 @@ how to make your sentences unreadable.
 ![pranaf](assets/pranaf.jpg)
 
 (continuing that murder train)
+
+## punch
+
+![punch](assets/punch.png)
+
+noticed that sunny (the minecraft skin) had a robot arm
+
+## shovelling
+
+![shovelknight](assets/shovelknight.png)
+
+wow its a half-panel
