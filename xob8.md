@@ -54,4 +54,5 @@ noticed that sunny (the minecraft skin) had a robot arm
 
 ![shovelknight](assets/shovelknight.png)
 
-wow its a half-panel
+wow its a half-panel.  
+also im going to steal your arm (you know who im talking about)
