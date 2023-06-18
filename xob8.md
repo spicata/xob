@@ -60,3 +60,7 @@ also im going to steal your arm (you know who im talking about)
 ## goofing around by a campfire (by [loren](https://ionized-satellite-e99.notion.site/Loren-s-Garden-cd03827de0a743468d9fb5a70413fc95))
 
 ![lorenxob](assets/lorenxob.png)
+
+## right...
+
+![mistaken](assets/mistaken.png)
