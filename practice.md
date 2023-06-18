@@ -21,3 +21,7 @@ latex:
 ![](assets/practice/terrarium.png)
 
 ![one](assets/practice/one.png)
+
+![crimson](assets/practice/crimson.png)
+
+![blue](assets/practice/blue.png)
