@@ -21,3 +21,10 @@ latex:
 ## ossac's comic #2 (i think)
 
 ![ossac](assets/ossac.png)
+
+## broken frame (anonymous's comic #1) 
+
+![sindumode](assets/sindumode.png)
+
+blame the blurriness on mace 😎  
+(we gonna try and fix it next time)
