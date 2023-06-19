@@ -81,3 +81,8 @@ also im going to steal your arm (you know who im talking about)
 
 ![future](assets/future.png)
 
+for the record, the dust was a little spicy
+
+## a glowing personality
+
+![glowing](assets/glowing.png)
