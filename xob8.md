@@ -64,3 +64,20 @@ also im going to steal your arm (you know who im talking about)
 ## right...
 
 ![mistaken](assets/mistaken.png)
+
+## demon cores
+
+![cores](assets/cores.png)
+
+## rare crystals
+
+![crystals](assets/crystals.png)
+
+## not meth
+
+![notmeth](assets/notmeth.png)
+
+## foreshadowing?
+
+![future](assets/future.png)
+
