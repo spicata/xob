@@ -27,6 +27,7 @@ Meet the cast:
 - [xob: 6](xob6.md)
 - [xob 7 (bombed)](xob7.md)
 - [xob 8](xob8.md)
+- [xob 9: the game](xob9.md)
 
 ## misc. xobs
 

@@ -25,3 +25,7 @@ latex:
 ![crimson](assets/practice/crimson.png)
 
 ![blue](assets/practice/blue.png)
+
+![long](assets/practice/long.png)
+
+![oldnine2](assets/oldnine2.png)
