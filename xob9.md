@@ -10,8 +10,7 @@ theme:
 latex: 
 ---
 
-## pilot
+## blue's true love
 
-![nine2](assets/nine2.png)
+![flame](assets/flame.png)
 
-(this is a 'demo', and so, if you guys like it, xob 9 will continue. otherwise we jump to xob XX)
