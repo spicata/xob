@@ -14,3 +14,10 @@ latex:
 
 ![flame](assets/flame.png)
 
+## prepared
+
+![war](assets/war.png)
+
+## mistakes
+
+![oops](assets/oops.png)
