@@ -21,3 +21,15 @@ latex:
 ## mistakes
 
 ![oops](assets/oops.png)
+
+## team carry
+
+![protect](assets/protect.png)
+
+## tnt
+
+![tnt](assets/tnt.png)
+
+## dead?
+
+![demon](assets/demon.png)
