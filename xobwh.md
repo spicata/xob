@@ -17,3 +17,7 @@ cdate: 2023-06-28
 ## powerplant
 
 ![powerplant](assets/powerplant.png)
+
+## red's at it again
+
+![redatitagain](assets/redatitagain.png)
