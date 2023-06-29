@@ -21,3 +21,11 @@ cdate: 2023-06-28
 ## red's at it again
 
 ![redatitagain](assets/redatitagain.png)
+
+## that one colour wheel trend
+
+![colourwheel](assets/colourwheel.png)
+
+## ice
+
+![ice](assets/ice.png)
