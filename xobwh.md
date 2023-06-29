@@ -13,3 +13,7 @@ cdate: 2023-06-28
 ## snowballing
 
 ![snowballing](assets/snowballing.png)
+
+## powerplant
+
+![powerplant](assets/powerplant.png)
