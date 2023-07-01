@@ -30,6 +30,7 @@ Meet the cast:
 - [xob 9: the game](xob9.md)
 - [xob 9.5 (the comedic ones)](xob95.md)
 - [xob wh](xobwh)
+- [xob bf](xobbf)
 
 ## misc. xobs
 

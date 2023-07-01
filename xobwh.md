@@ -37,3 +37,7 @@ cdate: 2023-06-28
 ## chiropractor 
 
 ![spine](assets/spine.png)
+
+## reminder to salt roads if it snows
+
+![salting](assets/salting.png)
