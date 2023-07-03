@@ -21,3 +21,7 @@ cdate: 2023-07-01
 ## weird
 
 ![werid](assets/werid.png)
+
+## fire
+
+![fire](assets/fire.png)
