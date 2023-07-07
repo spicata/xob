@@ -8,8 +8,8 @@ cdate: 2023-07-01
 
 ## bonk
 
-![[assets/bird2.png]]
+![bird2](assets/bird2.png)
 
 ## blue loses it
 
-![[assets/bluexx.png]]
+![bluexx](assets/bluexx.png)
