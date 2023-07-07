@@ -13,3 +13,15 @@ cdate: 2023-07-01
 ## blue loses it
 
 ![bluexx](assets/bluexx.png)
+
+## oopsies
+
+![oopsies](assets/oopsies.png)
+
+## 'hot'fix
+
+![fireagain](assets/fireagain.png)
+
+## jpegtubers
+
+![jpg](assets/jpg.png)

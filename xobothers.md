@@ -26,5 +26,9 @@ latex:
 
 ![sindumode](assets/sindumode.png)
 
-blame the blurriness on mace 😎  
+blame the blurriness on mac 😎  
 (we gonna try and fix it next time)
+
+## ears
+
+![fredinnitbruv](assets/fredinnitbruv.png)
