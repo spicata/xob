@@ -25,3 +25,11 @@ cdate: 2023-07-01
 ## jpegtubers
 
 ![jpg](assets/jpg.png)
+
+## amazon rainforest
+
+![tree](assets/tree.png)
+
+## why does reaper talk like that
+
+![deathcosplay](assets/deathcosplay.png)
