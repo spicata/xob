@@ -32,3 +32,7 @@ blame the blurriness on mac 😎
 ## ears
 
 ![fredinnitbruv](assets/fredinnitbruv.png)
+
+## butterfly effect (affect?)
+
+![butterfly-effect](assets/butterfly-effect.png)
