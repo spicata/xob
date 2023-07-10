@@ -33,3 +33,7 @@ cdate: 2023-07-01
 ## why does reaper talk like that
 
 ![deathcosplay](assets/deathcosplay.png)
+
+## mortality
+
+![raking](assets/raking.png)
