@@ -37,3 +37,7 @@ cdate: 2023-07-01
 ## mortality
 
 ![raking](assets/raking.png)
+
+## resignation
+
+![resign](assets/resign.png)
