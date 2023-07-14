@@ -32,6 +32,7 @@ Meet the cast:
 - [xob wh](xobwh)
 - [xob bf](xobbf)
 - [xob XX; blue loses it](xob10)
+- [xob pp](xobpp)
 
 ## misc. xobs
 
