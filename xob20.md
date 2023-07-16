@@ -41,3 +41,7 @@ cdate: 2023-07-01
 ## resignation
 
 ![resign](assets/resign.png)
+
+## the end...?
+
+![theend](assets/theend.png)

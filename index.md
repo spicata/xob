@@ -31,7 +31,7 @@ Meet the cast:
 - [xob 9.5 (the comedic ones)](xob95.md)
 - [xob wh](xobwh)
 - [xob bf](xobbf)
-- [xob XX; blue loses it](xob10)
+- [xob XX; blue loses it](xob20.md)
 - [xob pp](xobpp)
 
 ## misc. xobs
