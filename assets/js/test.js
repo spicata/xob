@@ -51,5 +51,11 @@ function redirect() {
     } else if (location.href.split('#')[1].includes('.') == true) {
         location.href = location.href.split('#')[0] + '#1';
         location.reload();
-    } 
+    } else if (location.href.split('#')[1] < 1) {
+        location.href = location.href.split('#')[0] + '#1';
+        location.reload();
+    } else if (location.href.split('#')[1] > document.querySelectorAll('img.xobdyn').length) {
+        location.href = location.href.split('#')[0] + '#' + document.querySelectorAll('img.xobdyn').length;
+        location.reload();
+    }
 }
