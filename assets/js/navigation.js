@@ -3,7 +3,7 @@ document.onkeyup = KeyCheck;
 var pages = ["test/index", "test/frame2", "test/frame3", "test/frame4"];
 
 function leftarrowpressed() {
-    let current_page = location.href.replace("http://127.0.0.1:4000/", "");
+    let current_page = location.href.replace("http://xob.99000000.xyz/", "");
     if (current_page.includes('.html')) {
         current_page = current_page.replace(".html", "");
     }
@@ -13,7 +13,7 @@ function leftarrowpressed() {
 }
 
 function rightarrowpressed() {
-    let current_page = location.href.replace("http://127.0.0.1:4000/", "")
+    let current_page = location.href.replace("http://xob.99000000.xyz/", "")
     if (current_page.includes('.html')) {
         current_page = current_page.replace(".html", "")  
     }
