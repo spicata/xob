@@ -2,6 +2,9 @@
 <html>
   <head>
     {% include head.html %}
+    {% if page.test %}
+      <script src="/assets/js/navigation.js"></script> 
+    {% endif %}
   </head>
   <body>
     {% if page.title %}
