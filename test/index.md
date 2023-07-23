@@ -7,6 +7,12 @@ cdate: 2023-07-01
 test: true
 ---
 
-![frame1](../assets/test/frame1.png)
+<img src="/assets/test/1.png" id="1" class="xobdyn">
+
+<img src="/assets/test/2.png" id="2" class="xobdyn">
+
+<img src="/assets/test/3.png" id="3" class="xobdyn">
+
+<img src="/assets/test/4.png" id="4" class="xobdyn">
 
 use `,` and `.` for navigation

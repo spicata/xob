@@ -89,3 +89,11 @@ h1 {
 .descriptionbar {
     border-top: 5px solid;
 }
+
+.xobdyn {
+    display: none;
+}
+
+.xobdyn:target {
+    display: block;
+}
