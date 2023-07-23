@@ -39,6 +39,7 @@ function KeyCheck(e) {
     }
 }
 
+// making sure you don't get into the backrooms
 function redirect() {
     if (location.href.includes('#') == false) {
         location.href = location.href + '#1';

@@ -43,3 +43,4 @@ Meet the cast:
 - [xobs by others](xobothers.md)
 - [lil' xob](lilxob.md)
 - [practice xobs](practice.md)
+- [check this out](xobcheckout)
