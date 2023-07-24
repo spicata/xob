@@ -36,3 +36,5 @@ layout: layout
 <img src="/assets/sacreblue/16.png" id="16" class="xobdyn">
 
 <img src="/assets/sacreblue/17.png" id="17" class="xobdyn">
+
+<img src="/assets/sacreblue/18.png" id="18" class="xobdyn">
