@@ -34,6 +34,10 @@ Meet the cast:
 - [xob XX; blue loses it](xob20.md)
 - [xob pp](xobpp)
 
+---
+
+- [xob: sacre blue](sacreblue)
+
 ## misc. xobs
 
 - [xobs in reference to shanmei lore](xobLore.md)

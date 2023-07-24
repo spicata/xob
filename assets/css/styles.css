@@ -1,11 +1,20 @@
+:root {
+    --background-0: #ffffff;
+    --foreground-0: #000000;
+    --foreground-1: grey;
+    --emphasis-0: lightblue;
+    --emphasis-1: #819ec1;
+    ---border: #000000;
+}
+
 p {
     margin: 0;
 }
 
 body {
     font-family: monospace;
-    background-color: whie;
-    color: black;
+    background-color: var(--background-0);
+    color: var(--foreground-0);
     margin: auto;
     font-size: 16px;
     max-width: 700px;
@@ -28,7 +37,7 @@ img {
 }
 
 .xobdyn {
-    border: 1px solid black;
+    border: 1px solid var(---border);
     margin-bottom: 20px;
     display: none;
 }
@@ -48,7 +57,7 @@ img {
     display: grid;
     grid-template-areas: "a b";
     width: 325px;
-    background-color: lightblue;
+    background-color: var(--emphasis-0);
     height: 50px;
     cursor: pointer;
     user-select: none;
@@ -59,14 +68,14 @@ img {
     grid-area: a;
     margin-left: 25px;
     border-radius: 10px 0 0 10px;
-    border-right: 3px solid #819ec1;
+    border-right: 3px solid var(--emphasis-1);
 }
 
 .button_right {
     grid-area: b;
     margin-right: 25px;
     border-radius: 0 10px 10px 0;
-    border-left: 3px solid #819ec1;
+    border-left: 3px solid var(--emphasis-1);
 }
 
 .text_left {
@@ -122,4 +131,9 @@ img {
         margin: auto 79.5px;
         padding: 0;
     }
+}
+
+.gray {
+    background-color: var(--foreground-1);
+    color: var(--foreground-1);
 }

@@ -1,5 +1,5 @@
 // activates when there is a key press (specifically when one is lifted)
-window.onload = redirect;
+window.onload = load;
 document.onkeyup = KeyCheck;
 
 // grabs the url from the... url
@@ -16,12 +16,23 @@ function previous_slide() {
     if (current_num - 1 != 0) { 
         location.href = current_url + '#' + (current_num - 1);
     }
+    if (current_num - 1 != document.querySelectorAll('img.xobdyn').length) {
+        document.getElementById('right_button').setAttribute('class', 'button_right button');
+    }
+    if (current_num - 1 == 1) {
+        document.getElementById('left_button').setAttribute('class', document.getElementById('left_button').getAttribute('class') + ' gray');
+    }
 }
 
 function next_slide() {
     let [current_url, current_num] = url_grabber();
     if (current_num + 1 <= document.querySelectorAll('img.xobdyn').length) {
         location.href = current_url + '#' + (current_num + 1);
+    }
+    if (current_num + 1 == document.querySelectorAll('img.xobdyn').length) {
+        document.getElementById('right_button').setAttribute('class', document.getElementById('right_button').getAttribute('class') + ' gray');
+    } else if (current_num + 1 != 1) {
+        document.getElementById('left_button').setAttribute('class', 'button_left button');
     }
 } 
 
@@ -40,7 +51,15 @@ function KeyCheck(e) {
 }
 
 // making sure you don't get into the backrooms
-function redirect() {
+function load() {
+    let [current_url, current_num] = url_grabber();
+    if (current_num == document.querySelectorAll('img.xobdyn').length) {
+        document.getElementById('right_button').setAttribute('class', document.getElementById('right_button').getAttribute('class') + ' gray');
+    } 
+    if (current_num == 1) {
+        document.getElementById('left_button').setAttribute('class', document.getElementById('left_button').getAttribute('class') + ' gray');
+    }
+    // ---
     if (location.href.includes('#') == false) {
         location.href = location.href + '#1';
     } else if (Math.floor(location.href.split('#')[1]) != location.href.split('#')[1]) {
