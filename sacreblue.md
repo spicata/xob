@@ -38,3 +38,13 @@ layout: layout
 <img src="/assets/sacreblue/17.png" id="17" class="xobdyn">
 
 <img src="/assets/sacreblue/18.png" id="18" class="xobdyn">
+
+<img src="/assets/sacreblue/19.png" id="19" class="xobdyn">
+
+<img src="/assets/sacreblue/20.png" id="20" class="xobdyn">
+
+<img src="/assets/sacreblue/21.png" id="21" class="xobdyn">
+
+<img src="/assets/sacreblue/23.png" id="23" class="xobdyn">
+
+<img src="/assets/sacreblue/24.png" id="24" class="xobdyn">
