@@ -50,3 +50,9 @@ layout: layout
 <img src="/assets/sacreblue/23.png" id="23" class="xobdyn">
 
 <img src="/assets/sacreblue/24.png" id="24" class="xobdyn">
+
+<img src="/assets/sacreblue/25.png" id="25" class="xobdyn">
+
+<img src="/assets/sacreblue/26.png" id="26" class="xobdyn">
+
+<img src="/assets/sacreblue/27.png" id="27" class="xobdyn">
