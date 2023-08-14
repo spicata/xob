@@ -38,6 +38,11 @@ Meet the cast:
 
 - [xob: sacre blue](sacreblue)
 
+---
+
+old xobs are back!!! finally continuing 10 to 19:
+- [xob10](xob10.md)
+
 ## misc. xobs
 
 - [xobs in reference to shanmei lore](xobLore.md)
