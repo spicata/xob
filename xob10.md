@@ -28,3 +28,9 @@ this was foreshadowing
 ## too low
 
 ![accident](assets/accident.png)
+
+## sorry not very sorry
+
+![sorrydasindu](assets/sorrydasindu.png)
+
+as some context, there is no context. but maybe check out anonymousse135's namemc.
