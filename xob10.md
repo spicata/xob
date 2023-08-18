@@ -34,3 +34,7 @@ this was foreshadowing
 ![sorrydasindu](assets/sorrydasindu.png)
 
 as some context, there is no context. but maybe check out anonymousse135's namemc.
+
+## killstealer
+
+![death](assets/death.png)
