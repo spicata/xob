@@ -42,3 +42,7 @@ as some context, there is no context. but maybe check out anonymousse135's namem
 ## alice (heheheha)
 
 ![alice](assets/alice.png)
+
+## stratosphere
+
+![space](assets/space.png)
