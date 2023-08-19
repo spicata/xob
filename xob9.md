@@ -10,6 +10,10 @@ theme:
 latex: 
 ---
 
+## this old one
+
+![nine](assets/nine.png)
+
 ## blue's true love
 
 ![flame](assets/flame.png)
@@ -33,3 +37,7 @@ latex:
 ## dead?
 
 ![demon](assets/demon.png)
+
+## that old one
+
+![nine2](assets/nine2.png)

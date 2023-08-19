@@ -46,3 +46,15 @@ as some context, there is no context. but maybe check out anonymousse135's namem
 ## stratosphere
 
 ![space](assets/space.png)
+
+## reminder to smile
+
+![sillysmile](assets/sillysmile.png)
+
+## living in a sim(ulation)
+
+![sims](assets/sims.png)
+
+## gpt'ing
+
+![gpt](assets/gpt.png)
