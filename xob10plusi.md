@@ -34,3 +34,13 @@ based on a false story
 ## gamboge
 
 ![gamboge](assets/imaginary/gamboge.png)
+
+---
+
+## mango
+
+![mango](assets/imaginary/xobmango.png)
+
+## [hospital](https://notmario.github.io/randomstuff/assets/xkcdobob.png) remastered
+
+![hospital](assets/imaginary/xobhospitalremastered.png)
