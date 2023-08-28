@@ -42,7 +42,7 @@ Meet the cast:
 
 old xobs are back!!! finally continuing 10 to 19:
 - [xob 10](xob10.md)
-- [xob 10 + i](xob10plusi.md)
+- [xob 10 + i](xob10plusi.md) (xob fanart?)
 - [xob 11](xob11.md)
 
 ## misc. xobs

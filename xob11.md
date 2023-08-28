@@ -1,5 +1,5 @@
 ---
-title: "xob #10"
+title: "xob #11"
 layout: simple
 ---
 
@@ -10,3 +10,7 @@ layout: simple
 ## sleepy times
 
 ![sleepy](assets/sleepy.png)
+
+## no sponsors 🔫
+
+![groupeffort](assets/groupeffort.png)
