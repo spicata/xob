@@ -3,7 +3,7 @@ title: "xob"
 aliases:
 - "xob"
 layout: simple
-description: "A very terrible comic series, kind of based on XKCD but not really."
+description: "Just a 4 panel comic"
 showdescription: true
 font: sans
 theme: 
@@ -44,6 +44,7 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob 10](xob10.md)
 - [xob 10 + i](xob10plusi.md) (xob fanart?)
 - [xob 11](xob11.md)
+- [xobdate](update.md)
 
 ## misc. xobs
 
