@@ -45,6 +45,7 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob 10 + i](xob10plusi.md) (xob fanart?)
 - [xob 11](xob11.md)
 - [xobdate](update.md)
+- [xob √145 𝐜𝐢𝐬(1.487655509491)](xobsqrt145cis1point48765509491.md)
 
 ## misc. xobs
 
