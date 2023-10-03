@@ -22,3 +22,23 @@ these ones are made whilst i was just goofing around!
 ## why.
 
 ![insomniac](assets/insomniac.png)
+
+## garf karting
+
+![garfkart](assets/garfkart.png)
+
+## i have used this twice, and counting
+
+![memeing](assets/memeing.png)
+
+## how???
+
+![sleepy2](assets/sleepy2.png)
+
+## squeaking
+
+![squeakbang](assets/squeakbang.png)
+
+## cast again
+
+![cast2](assets/cast2.png)
