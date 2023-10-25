@@ -47,6 +47,7 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xobdate](update.md)
 - [xob √145 𝐜𝐢𝐬(1.487655509491)](xobsqrt145cis1point48765509491.md)
 - [xob no.12](xob12.md)
+- [xob 9+i: the actual game](xobpico8.md)
 
 ## misc. xobs
 
