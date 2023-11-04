@@ -46,3 +46,7 @@ layout: simple
 ## we live...
 
 ![smurf](assets/smurf.png)
+
+## ...strange
+
+![sussy](assets/sussy.png)
