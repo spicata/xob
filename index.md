@@ -48,6 +48,7 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob √145 𝐜𝐢𝐬(1.487655509491)](xobsqrt145cis1point48765509491.md)
 - [xob no.12](xob12.md)
 - [xob 13 dd and more](xob13.md)
+- [xob cs](xob14.md)
 
 ## misc. xobs
 
