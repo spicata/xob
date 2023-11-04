@@ -1,4 +1,4 @@
-	---
+---
 title: "xob"
 aliases:
 - "xob"
