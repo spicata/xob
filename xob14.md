@@ -9,25 +9,17 @@ layout: simple
 
 ![dasindu](assets/dasindu.png)
 
-> no artist statement
-
 ## the speedrun
 
 ![showdown](assets/showdown.png)
-
-> great to see what interpretations of xobs other people create. ...actually, it's kind of terrifying. also, stop using our calls to cook.
 
 ## the marathon
 
 ![xobchefshowdownshowdown-ossac](assets/xobchefshowdownshowdown-ossac.png)
 
-> based on a true story, this "xob" comic shows the tragedy of technology and what it has done to our youths. it shows a person playing a silly video game for 24 hours, wasting his life away. also impostor at the top in katakana
-
 ## the layered
 
 ![xd](assets/xd.png)
-
-> i love dasindu :heart:
 
 ## the all of the above
 
