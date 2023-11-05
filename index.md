@@ -49,6 +49,7 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob no.12](xob12.md)
 - [xob 13 dd and more](xob13.md)
 - [xob cs](xob14.md)
+- [xob 15](xob15.md)
 
 ## misc. xobs
 
