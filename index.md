@@ -50,6 +50,8 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob 13 dd and more](xob13.md)
 - [xob cs](xob14.md)
 - [xob 15](xob15.md)
+- [xob 16: NEW!!!](xob16.md)
+- [xob 17: green goes to ???](xob17.md)
 
 ## misc. xobs
 

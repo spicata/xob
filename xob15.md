@@ -18,3 +18,7 @@ layout: simple
 ## creme is tf2 medic
 
 ![cremeismedic](assets/cremeismedic.png)
+
+## the family... ring
+
+![familyring](assets/familyring.png)
