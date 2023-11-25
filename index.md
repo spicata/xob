@@ -58,7 +58,6 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xobs in reference to shanmei lore](xobLore.md)
 - [xob NSFW](xobNSFW.md)
 - [the GIFs](xobGIF.md)
-- [xob conspiracies](conspiracies.md)
 - [xobs by others](xobothers.md)
 - [lil' xob](lilxob.md)
 - [practice xobs](practice.md)
