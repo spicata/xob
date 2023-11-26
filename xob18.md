@@ -14,3 +14,7 @@ layout: simple
 ## different ways to moderate
 
 ![moderate](assets/moderate.png)
+
+## pink gaming
+
+![pinkgoescrazy](assets/pinkgoescrazy.png)
