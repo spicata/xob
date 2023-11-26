@@ -22,3 +22,11 @@ layout: simple
 ## screw mosquitos
 
 ![mosquito](assets/mosquito.png)
+
+## squeak gaming
+
+![goku](assets/goku.png)
+
+## maths classroom
+
+![cold](assets/cold.png)
