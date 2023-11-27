@@ -30,3 +30,11 @@ layout: simple
 ## maths classroom
 
 ![cold](assets/cold.png)
+
+## missing
+
+![remainders](assets/remainders.png)
+
+## puppeteer
+
+![puppetmaster](assets/puppetmaster.png)
