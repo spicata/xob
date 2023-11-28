@@ -38,3 +38,15 @@ layout: simple
 ## puppeteer
 
 ![puppetmaster](assets/puppetmaster.png)
+
+## a sniper
+
+![sniper](assets/sniper.png)
+
+## MEDICCCC!!
+
+![MEDIC](assets/MEDIC.png)
+
+## dramatic
+
+![reaper](assets/reaper.png)
