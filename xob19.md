@@ -50,3 +50,31 @@ layout: simple
 ## dramatic
 
 ![reaper](assets/reaper.png)
+
+## hi.
+
+![badtiming](assets/badtiming.png)
+
+## tall guy
+
+![parry](assets/parry.png)
+
+## intergalactic whiplash
+
+![whiplash](assets/whiplash.png)
+
+## few changes
+
+![changes](assets/changes.png)
+
+## jial break
+
+![catchem](assets/catchem.png)
+
+## classic pickaxe
+
+![jacaranda](assets/jacaranda.png)
+
+## wtf???
+
+![animebs](assets/animebs.png)
