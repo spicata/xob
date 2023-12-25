@@ -14,9 +14,7 @@ Meet the cast:
 
 ![cast](assets/cast.png)
 
----
-
-## main-line xobs
+## old xobs
 
 - [xob season 1](xob1.md)
 - [xob 2: the shan-mei x ed saga](xob2)
@@ -31,16 +29,7 @@ Meet the cast:
 - [xob 9.5 (the comedic ones)](xob95.md)
 - [xob wh](xobwh)
 - [xob bf](xobbf)
-- [xob XX; blue loses it](xob20.md)
 - [xob pp](xobpp)
-
----
-
-- [xob: sacre blue](sacreblue)
-
----
-
-old xobs are back!!! finally continuing 10 to 19:
 - [xob 10](xob10.md)
 - [xob 10 + i](xob10plusi.md) (xob fanart?)
 - [xob 11](xob11.md)
@@ -54,13 +43,8 @@ old xobs are back!!! finally continuing 10 to 19:
 - [xob 17: green goes to ???](xob17.md)
 - [xob 18](xob18.md)
 - [xob 19: battle royale](xob19.md)
+- [xob XX; blue loses it](xob20.md)
 
-## misc. xobs
+## new xobs
 
-- [xobs in reference to shanmei lore](xobLore.md)
-- [xob NSFW](xobNSFW.md)
-- [the GIFs](xobGIF.md)
-- [xobs by others](xobothers.md)
-- [lil' xob](lilxob.md)
-- [practice xobs](practice.md)
-- [check this out](xobcheckout)
+- <a href="/lore/">xob lore</a>
