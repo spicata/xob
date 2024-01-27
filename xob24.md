@@ -7,11 +7,11 @@ cdate: 2023-07-01
 
 ## vehicular manslaughter
 
-![vehicle](vehicle.png)
+![vehicle](assets/xob24/vehicle.png)
 
 ## pizza time
 
-![pizza](pizza.png)
+![pizza](assets/xob24/pizza.png)
 
 ## comatose
 
@@ -19,42 +19,42 @@ cdate: 2023-07-01
 
 ## box jellyfish
 
-![box_jellyfish](box_jellyfish.png)
+![box_jellyfish](assets/xob24/box_jellyfish.png)
 
 ## ping
 
-![lag](lag.png)
+![lag](assets/xob24/lag.png)
 
 ## renewables
 
-![turbine](turbine.png)
+![turbine](assets/xob24/turbine.png)
 
 ## ow
 
-![murder](murder.png)
+![murder](assets/xob24/murder.png)
 
 ## puddle
 
-![melty](melty.png)
+![melty](assets/xob24/melty.png)
 
 social interactions
 
 ## ',:-|
 
-![meth](meth.png)
+![meth](assets/xob24/meth.png)
 
 ## brownies
 
-![brownies](brownies.png)
+![brownies](assets/xob24/brownies.png)
 
 ## death
 
-![life_support](life_support.png)
+![life_support](assets/xob24/life_support.png)
 
 ## brownies 2
 
-![brownies2](brownies2.png)
+![brownies2](assets/xob24/brownies2.png)
 
 ## asexual reproduction
 
-![mitosis](mitosis.png)
+![mitosis](assets/xob24/mitosis.png)
