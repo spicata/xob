@@ -46,4 +46,4 @@ Meet the cast:
 
 ## new xobs
 
-- <a href="/lore/">xob lore</a>
+- [xob 24](xob24.md)
